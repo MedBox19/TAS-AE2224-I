@@ -1,1 +1,1 @@
-All code for AE2224-TAS. Identifying MILD combustion mode analysis.
+All code for AE2224-TAS. Identifying MILD combustion mode using NN.
